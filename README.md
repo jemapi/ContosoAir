@@ -1,5 +1,4 @@
-
-
+[![Build Status](https://dev.azure.com/pyrezjmpc/ContosoAir/_apis/build/status/jemapi.ContosoAir?branchName=master)](https://dev.azure.com/pyrezjmpc/ContosoAir/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
 
